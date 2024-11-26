@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.bc4is.com</loc>
+    <lastmod>2023-11-013</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>BC4IS</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-11-013T00:00:00+00:00</news:publication_date>
+      <news:title>Workshop Presentation</news:title>
+      <news:description>Discover the BC4IS Workshop Presentation</news:description>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.bc4is.com/#submission</loc>
+    <lastmod>2023-11-013</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Paper Submission</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-11-013T00:00:00+00:00</news:publication_date>
+      <news:title>Paper Submission</news:title>
+      <news:description>Submit your contribution for publication</news:description>
+    </news:news>
+  </url>
+  <!--<url>
+    <loc>https://www.bc4is.com/#schedule</loc>
+    <lastmod>2023-05-022</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Program</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-05-022T00:00:00+00:00</news:publication_date>
+      <news:title>Program</news:title>
+      <news:description>Check our exciting Workshop Program</news:description>
+    </news:news>
+  </url>-->
+
+  <url>
+    <loc>https://www.bc4is.com/2023</loc>
+    <lastmod>2023-11-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>BC4IS 2023 Edition</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2023-05-022T00:00:00+00:00</news:publication_date>
+      <news:title>2023 Edition</news:title>
+      <news:description>Discover the BC4IS 2023 Edition</news:description>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.bc4is.com/2022</loc>
+    <lastmod>2022-05-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>BC4IS 2022 Edition</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2022-05-022T00:00:00+00:00</news:publication_date>
+      <news:title>2022 Edition</news:title>
+      <news:description>Discover the BC4IS 2022 Edition</news:description>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.bc4is.com/2021</loc>
+    <lastmod>2021-05-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>BC4IS 2021 Edition</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2021-05-022T00:00:00+00:00</news:publication_date>
+      <news:title>2021 Edition</news:title>
+      <news:description>Discover the BC4IS 2021 Edition</news:description>
+    </news:news>
+  </url>
+</urlset>
