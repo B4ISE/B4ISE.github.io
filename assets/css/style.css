@@ -1397,6 +1397,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 5px;
   transition: all  0.3s ease-in-out;
   box-shadow: 0 10px 25px 0 rgba(6, 12, 34, 0.1);
+  display: flex; /* Ensures the content can be aligned */
+  flex-direction: column; /* Keeps content stacked vertically */
+  align-items: center; /* Centers content horizontally */
+  justify-content: center; /* Centers content vertically */
+  text-align: center; /* Centers text inside the card */
 }
 
 #organization .card:hover {
